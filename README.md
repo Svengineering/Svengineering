@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Svengineering, a B.Sc. graduate in Electrical Engineering.
-- 👀 I’m interested in different aspects of computer science and electronical engineering.
-- 🌱 I’m currently working on ~~embedded devices programming~~ starting app development with **Flutter**.
+- 👋 Hi, I’m @Svengineering, a B.Sc. graduate :man_student: in Electrical Engineering.
+- :nerd_face: I’m interested in different aspects of computer science 🖥️ and electronical engineering 🔌.
+- :hammer_and_wrench: I’m currently working on ~~embedded devices programming~~ starting app development with **Flutter**.
 - [svengineering.io](https://svengineering.io)
 
 <!---
