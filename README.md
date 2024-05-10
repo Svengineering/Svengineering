@@ -6,5 +6,3 @@
 - :evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree: :corn: :tent: 🌱 🌼 🌳 🌳
 - 🌠 🍵
 
-
-🇮🇪 
