@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Svengineering
-- Wordpress & React Developer
-- :octopus: :whale:
+- primarily Wordpress & PHP Developer
+- working as a freelancer
+
 
 
