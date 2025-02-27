@@ -2,7 +2,6 @@
 - primarily Wordpress & PHP Developer
 - working as a freelancer
 - like to the gym and to bike :bicyclist:
-- sometimes working at Utopiastadt
 
 
 
