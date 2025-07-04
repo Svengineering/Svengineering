@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Svengineering
-- primarily Wordpress & PHP Developer
+- Wordpress & PHP & JS Developer
 - working as a freelancer
 
 
